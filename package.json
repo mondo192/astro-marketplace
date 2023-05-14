@@ -1,0 +1,23 @@
+{
+  "name": "astro-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:mondo192/astro-marketplace.git",
+  "license": "MIT",
+  "author": "mondo192 <31599023+mondo192@users.noreply.github.com>",
+  "main": "index.js",
+  "scripts": {
+    "astro": "astro",
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^2.4.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "packageManager": "yarn@3.5.1"
+}
